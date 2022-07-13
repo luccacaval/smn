@@ -1,0 +1,9 @@
+* {
+  font-family: monospace;
+}
+
+.container {
+  border: 1px solid black;
+  height: 400px;
+  margin-top: 40px  
+}
